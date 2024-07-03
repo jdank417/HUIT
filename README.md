@@ -41,7 +41,7 @@ Ensure PowerShell is enabled on your system (Set-ExecutionPolicy RemoteSigned or
 
 
 **Running the Script:**
-Simply execute HUIT-IZER.ps1 in PowerShell.
+Download HUIT-IZER.ps1 and run.bat to your computer then run the batch file; run.bat
 Follow the prompts to confirm opening downloaded files.
 
 **Reviewing Output:**
