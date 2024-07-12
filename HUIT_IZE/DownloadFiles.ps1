@@ -101,7 +101,7 @@ Write-Output "All files have been downloaded to the desktop." | Tee-Object -File
 $websites = @(
     "https://vpn.harvard.edu",
     "https://harvard.zoom.us/download",
-    "https://docs.google.com/document/d/15BPbmeNYxCJZrB4Ur7wEg1q6Ga6TFCS69BlWd4KjYkY/edit?usp=sharing"
+    "https://docs.google.com/document/d/1Sn7T3OMWQm43Qxd7hR6Be0t0Q3otzeWV/edit?usp=sharing&ouid=101068923790311888269&rtpof=true&sd=true"
 )
 
 # Open each website
